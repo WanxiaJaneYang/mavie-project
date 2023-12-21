@@ -1,0 +1,15 @@
+{
+  "client": {
+    "source": "mavie",
+    "plugin": "zcatalyst-cli-plugin-react"
+  },
+  "functions": {
+    "targets": [
+      "login",
+      "product",
+      "get_creator_access_token"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "2620000000055058",
+      "name": "MavieCustomerFrontEnd",
+      "domain": {
+        "id": "10068179457",
+        "name": "maviecustomerfrontend-698471191.development"
+      },
+      "timezone": "Australia/Adelaide",
+      "env": [
+        {
+          "idx": 1,
+          "id": "698471191",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
